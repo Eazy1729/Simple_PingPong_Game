@@ -1,0 +1,25 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anmol/Desktop/Ping_Pong_Game/ray_lib_test'
+relocations:
+  - { offset: 0x1606C, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x63505, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offset: 0x16169, size: 0x8, addend: 0x0, symName: _player_score, symObjAddr: 0x63508, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offset: 0x1617F, size: 0x8, addend: 0x0, symName: _cpu_score, symObjAddr: 0x6350C, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offset: 0x16195, size: 0x8, addend: 0x0, symName: _Green, symObjAddr: 0xAD4, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x161AB, size: 0x8, addend: 0x0, symName: _Dark_Green, symObjAddr: 0xAD8, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0x161C1, size: 0x8, addend: 0x0, symName: _Light_Green, symObjAddr: 0xADC, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x161D7, size: 0x8, addend: 0x0, symName: _Yellow, symObjAddr: 0xAE0, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offset: 0x1628D, size: 0x8, addend: 0x0, symName: _ball, symObjAddr: 0x63510, symBinAddr: 0x10000801C, symSize: 0x0 }
+  - { offset: 0x16343, size: 0x8, addend: 0x0, symName: _player, symObjAddr: 0x63524, symBinAddr: 0x100008030, symSize: 0x0 }
+  - { offset: 0x16391, size: 0x8, addend: 0x0, symName: _cpu, symObjAddr: 0x63538, symBinAddr: 0x100008044, symSize: 0x0 }
+  - { offset: 0x164C5, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_ray_lib_test.cpp, symObjAddr: 0xB50, symBinAddr: 0x100001410, symSize: 0x14 }
+  - { offset: 0x164DC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0xB14, symBinAddr: 0x1000013D4, symSize: 0x3C }
+  - { offset: 0x164FA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x598, symBinAddr: 0x100000E98, symSize: 0x53C }
+  - { offset: 0x16534, size: 0x8, addend: 0x0, symName: __ZN9CPUPaddle6UpdateEf, symObjAddr: 0x4DC, symBinAddr: 0x100000DDC, symSize: 0xBC }
+  - { offset: 0x1656B, size: 0x8, addend: 0x0, symName: __ZN6Paddle6UpdateEv, symObjAddr: 0x454, symBinAddr: 0x100000D54, symSize: 0x88 }
+  - { offset: 0x16593, size: 0x8, addend: 0x0, symName: __ZN6Paddle4DrawEv, symObjAddr: 0x39C, symBinAddr: 0x100000C9C, symSize: 0xB8 }
+  - { offset: 0x165BB, size: 0x8, addend: 0x0, symName: __ZN6Paddle13LimitMovementEv, symObjAddr: 0x310, symBinAddr: 0x100000C10, symSize: 0x8C }
+  - { offset: 0x165E3, size: 0x8, addend: 0x0, symName: __ZN4Ball10Reset_BallEv, symObjAddr: 0x248, symBinAddr: 0x100000B48, symSize: 0xC8 }
+  - { offset: 0x16626, size: 0x8, addend: 0x0, symName: __ZN4Ball6UpdateEv, symObjAddr: 0x54, symBinAddr: 0x100000954, symSize: 0x1F4 }
+  - { offset: 0x1664E, size: 0x8, addend: 0x0, symName: __ZN4Ball4DrawEv, symObjAddr: 0x0, symBinAddr: 0x100000900, symSize: 0x54 }
+...
