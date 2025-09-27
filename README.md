@@ -1,1 +1,1 @@
-This is a simple ping pong game used made for fun . 
+This is a simple ping pong game made for fun . 
